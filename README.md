@@ -3,7 +3,9 @@
 Deep-learning classifier that detects malaria parasites in microscope images of thin-blood-smear red blood cells.
 Two models are compared — a **custom CNN** trained from scratch and a **MobileNetV2** transfer-learning model — with full evaluation and **Grad-CAM** explainability.
 
-**🚀 Live demo:** _add your Streamlit link here_
+**🚀 Live demo:** https://saanvi-malaria-cell-detection.streamlit.app
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://saanvi-malaria-cell-detection.streamlit.app)
 
 ![Sample cells](results/sample_images.png)
 
